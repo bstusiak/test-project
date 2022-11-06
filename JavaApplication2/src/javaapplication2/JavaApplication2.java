@@ -16,7 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("New print statement!");
+        System.out.println("Modified print statement!");
     }
     
 }
